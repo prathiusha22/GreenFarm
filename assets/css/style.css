@@ -20,7 +20,14 @@ header {
     text-decoration: none;
 
 }
+.menu-bar .main {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
 
+}
 .menu-bar {
     margin-left: 100px;
     margin-top: 40px;
@@ -33,17 +40,16 @@ a {
     font-weight: 700;
 }
 
-.menu-bar ul li {
+.menu-bar .main a {
     padding-left: 70px;
 }
 
 .logo {
-    margin-left: 50px;
     border: 2px solid white;
     border-radius: 20px;
     height: 60px;
     width: 200px;
-    margin-left: 200px;
+    margin-left: 250px;
     margin-top: 20px;
 }
 

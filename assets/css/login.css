@@ -16,17 +16,27 @@ body{
     align-items: center;
     
 }
+form{
+    line-height: 50px;
+}
+/* form label{
+    display: block;
+} */
+/* form input{
+    display: block;
+} */
 .para{
     margin-top: -5px;
-    margin-right:200px ;
+    /* margin-right:200px ; */
 }
 .para1{
     margin-top: 5px;
-    margin-right:230px ;
+    margin-left: 26px;
+    /* margin-right:230px ; */
 }
 .para2{
     margin-top: 5px;
-    margin-right:200px ;
+    /* margin-right:200px ; */
 }
 .but{
     margin-top: 30px;
