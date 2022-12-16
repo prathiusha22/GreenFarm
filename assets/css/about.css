@@ -5,14 +5,14 @@
 
 body {
     overflow-x: hidden;
-
 }
 
+/* header */
 header {
-    col
+
     background-color: rgb(108, 145, 53);
     height: 100px;
-    width: 100%;
+    width: 99%;
     position: fixed;
     z-index: 2;
     display: flex;
@@ -28,8 +28,8 @@ header {
 }
 
 .menu-bar {
-    margin-left: 100px;
-    margin-top: 40px;
+    margin-left: -180px;
+    margin-top: 230px;
 }
 
 a {
@@ -315,7 +315,6 @@ h1 {
 .sunlightpara {
     font-size: 20px;
     position: relative;
-    top: 100px;
     left: 320px;
     top: -200px;
 }
