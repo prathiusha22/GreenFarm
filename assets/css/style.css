@@ -1,7 +1,7 @@
 body {
     overflow-x: hidden;
 }
-
+/* header */
 header {
 
     background-color: rgb(108, 145, 53);
@@ -129,7 +129,7 @@ a {
     margin: auto;
     transition: 0.7s;
 }
-
+/* freshvegetables */
 .para {
     font-size: 90px;
     color: white;
@@ -186,7 +186,7 @@ a {
     margin-left: 230px;
 
 }
-
+/* freshfruits */
 .mpage1 {
     width: 620px;
     height: 350px;
@@ -249,7 +249,7 @@ a {
     font-weight: 500;
 
 }
-
+/* button */
 .but,
 .but1 {
     color: gray;
