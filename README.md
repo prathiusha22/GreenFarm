@@ -11,4 +11,4 @@ Market Research:https://docs.google.com/document/d/1addm4zxAxVOA_jVlRcDHY0tgTHCN
 
 userflow:https://drive.google.com/file/d/1A74aQOd3qClHgO3zmY9PHo1Vnm2wjKYr/view?usp=sharing
 
-Wireframe:https://drive.google.com/drive/folders/1N1aCOmLsaDZGYlNv_vO6hAFE4w9zF6JS
+Wireframe:https://drive.google.com/file/d/1vqdk3Mke9MqMXPDg9jp5hq4tUE08t0DR/view?usp=sharing
