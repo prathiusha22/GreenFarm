@@ -1,6 +1,6 @@
 # GreenFarm
 My Website is all about selling organic fruits and vegetables at a fair price to people who are not able to buy from shops and markets.
-In this website fruits and vegetables are grown on the terrace and people who have terrace farms can also register on the website and they can sell their products.
+In this website fruits and vegetables are grown on the terrace and people who have terrace farms can also register on this website and they can sell their products.
 My Website solves the problem of time management and ensures a job for a homemaker and for a woman.
 
 Github Link:https://prathiusha22.github.io/GreenFarm/
