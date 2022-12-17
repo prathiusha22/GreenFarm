@@ -5,14 +5,13 @@
 
 body {
     overflow-x: hidden;
-
 }
 
 header {
-    col
+
     background-color: rgb(108, 145, 53);
     height: 100px;
-    width: 100%;
+    width: 99%;
     position: fixed;
     z-index: 2;
     display: flex;
@@ -26,7 +25,14 @@ header {
     text-decoration: none;
 
 }
+.menu-bar .main {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
 
+}
 .menu-bar {
     margin-left: 100px;
     margin-top: 40px;
@@ -39,7 +45,7 @@ a {
     font-weight: 700;
 }
 
-.menu-bar ul li {
+.menu-bar .main a {
     padding-left: 70px;
 }
 
@@ -315,7 +321,6 @@ h1 {
 .sunlightpara {
     font-size: 20px;
     position: relative;
-    top: 100px;
     left: 320px;
     top: -200px;
 }
