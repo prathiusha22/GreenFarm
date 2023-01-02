@@ -1,0 +1,22 @@
+{
+  "name": "greenfarm",
+  "version": "1.0.0",
+  "description": "My Website is all about selling organic fruits and vegetables at a fair price to people who are not able to buy from shops and markets.\r In this website fruits and vegetables are grown on the terrace and people who have terrace farms can also register on the website and they can sell their products.\r My Website solves the problem of time management and ensures a job for a homemaker and for a woman.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathiusha22/GreenFarm.git"
+  },
+  "author": "prathiusha22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathiusha22/GreenFarm/issues"
+  },
+  "homepage": "https://github.com/prathiusha22/GreenFarm#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
