@@ -7,6 +7,7 @@ body {
     overflow-x: hidden;
 }
 
+/* header */
 header {
     height:0px;
     background-color: rgb(108, 145, 53);
@@ -34,8 +35,8 @@ header {
 
 }
 .menu-bar {
-    margin-left: 100px;
-    margin-top: 40px;
+    margin-left: -180px;
+    margin-top: 230px;
 }
 
 a {
